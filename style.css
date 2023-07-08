@@ -1,0 +1,146 @@
+body {
+  background-image: url(../images/black.jpg);
+}
+.heading {
+  height: 100px;
+  width: 100%;
+  background-position: center;
+}
+span {
+  color: gold;
+}
+.placeholder {
+  color: gold;
+}
+footer {
+  text-align: center;
+  color: gold;
+}
+#cont {
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+}
+h2 {
+  text-align: center;
+  text-decoration: underline;
+}
+.thanks {
+  color: goldenrod;
+}
+.icon {
+  margin: 100px;
+}
+p {
+  color: white;
+  font-size: 1.5em;
+}
+.head {
+  text-align: left;
+}
+tr td th {
+  border: 1px solid black;
+  margin: 10px;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-left: 4%;
+  padding-right: 4%;
+}
+h2 {
+  color: beige;
+}
+nav ul li {
+  display: inline;
+  padding: 10px 25px;
+}
+nav ul li a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+nav ul li a:hover {
+  color: green;
+  transition: 0.5s;
+}
+.btn {
+  background-color: blue;
+  color: white;
+  padding: 6px 18px;
+  transition: transform 0.2s;
+  border-radius: 50px;
+  border: 1px solid white;
+  text-decoration: none;
+}
+.btn:hover {
+  transform: scale(1.2);
+  background-color: green;
+}
+input {
+  margin-left: 10px;
+}
+h1 {
+  color: aquamarine;
+  text-shadow: 100px;
+}
+h2 {
+  color: white;
+}
+table tr td {
+  margin: 100px;
+  border: 1px solid white;
+  color: white;
+}
+.tab {
+  border: 1px solid white;
+  width: 10%;
+}
+th {
+  border: 1px solid white;
+  color: white;
+}
+label {
+  font-size: 26px;
+  color: white;
+  margin-left: 10px;
+}
+.sec input {
+  width: 90%;
+  padding: 10px;
+}
+.cont {
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+}
+#mes {
+  padding: 30px;
+  width: 50%;
+}
+img {
+  width: 100px;
+  border-radius: 50px;
+}
+.card {
+  border: 1px solid white;
+  margin: 250px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  background-color: rgb(134, 195, 226);
+  text-align: center;
+  height: 620px;
+}
+.reach {
+  text-align: left;
+  font-size: large;
+  text-align: left;
+  margin-left: 0px;
+}
+.IDCARD {
+  text-align: left;
+  padding-left: 10px;
+  font-size: 10px;
+}
